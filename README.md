@@ -40,6 +40,6 @@ Our analysis on each county, shows that:
    - Denver county casted 82.8% of the vote, with 306,055 number of votes.
    - Araphoe county casted 6.7% of the vote, with 24,801 number of votes.
    - The county with the highest turnout was:
-        - Denver with 306,055 votes casted, representing  82.8% of the vote.      
+        - Denver; with 306,055 votes casted, representing  82.8% of the vote.      
  
     
